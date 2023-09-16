@@ -1,4 +1,4 @@
-### Disclaimer: this project was uploaded by another account of mine in 2020, but I deleted that account, so I reuploaded it here.
+### Disclaimer: this project was uploaded by another account of mine in 2020, but I deleted that account, so I reuploaded it here. I rebased the git history because it was a mess back then.
 
 # How AI can be used to improve traffic in big cities
 
